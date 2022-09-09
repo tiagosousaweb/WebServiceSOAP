@@ -1,0 +1,14 @@
+br/com/soap/modelo/TokenDao.class
+br/com/soap/modelo/Usuario$Builder.class
+br/com/App.class
+br/com/soap/modelo/ItemDAO.class
+br/com/soap/modelo/Usuario.class
+br/com/soap/modelo/Item.class
+br/com/soap/modelo/Item$Builder.class
+br/com/soap/modelo/Filtro.class
+br/com/soap/modelo/ItemValidadorException.class
+br/com/soap/modelo/TokenUsuario.class
+br/com/soap/modelo/Filtros.class
+br/com/soap/modelo/ItemValidador.class
+br/com/soap/modelo/TipoItem.class
+br/com/soap/modelo/ListaItens.class

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.com.AppTest" time="0.056" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/tiago/Projetos/soap/target/test-classes:/home/tiago/Projetos/soap/target/classes:/home/tiago/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/tiago/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/tiago/.m2/repository/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.jar:/home/tiago/.m2/repository/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar:/home/tiago/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/home/tiago/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar:/home/tiago/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar:"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Linux"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/amd64"/>
+    <property name="sun.java.command" value="/home/tiago/Projetos/soap/target/surefire/surefirebooter4080381829426968509.jar /home/tiago/Projetos/soap/target/surefire 2022-09-09T01-09-28_739-jvmRun1 surefire3769771907815289653tmp surefire_04140607869200193040tmp"/>
+    <property name="surefire.test.class.path" value="/home/tiago/Projetos/soap/target/test-classes:/home/tiago/Projetos/soap/target/classes:/home/tiago/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/tiago/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/tiago/.m2/repository/javax/xml/ws/jaxws-api/2.3.1/jaxws-api-2.3.1.jar:/home/tiago/.m2/repository/javax/xml/soap/javax.xml.soap-api/1.4.0/javax.xml.soap-api-1.4.0.jar:/home/tiago/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/home/tiago/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar:/home/tiago/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/tiago"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre"/>
+    <property name="basedir" value="/home/tiago/Projetos/soap"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="jdk.vendor.version" value="Zulu 8.64.0.19-CA-linux64"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/tiago/Projetos/soap/target/surefire/surefirebooter4080381829426968509.jar"/>
+    <property name="sun.boot.class.path" value="/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/resources.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/rt.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/sunrsasign.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/jsse.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/jce.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/charsets.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/jfr.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/cat.jar:/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_345-b01"/>
+    <property name="user.name" value="tiago"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.0-47-generic"/>
+    <property name="java.endorsed.dirs" value="/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/tiago/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="1.8.0_345"/>
+    <property name="user.dir" value="/home/tiago/Projetos/soap"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="25.345-b01"/>
+    <property name="java.ext.dirs" value="/home/tiago/.sdkman/candidates/java/8.0.345-zulu/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="br.com.AppTest" time="0.003"/>
+</testsuite>

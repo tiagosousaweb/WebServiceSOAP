@@ -1,0 +1,12 @@
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/TipoItem.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/ItemValidador.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/ItemValidadorException.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/TokenDao.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/TokenUsuario.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/Usuario.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/Filtro.java
+/home/tiago/Projetos/soap/src/main/java/br/com/App.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/ItemDAO.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/Filtros.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/Item.java
+/home/tiago/Projetos/soap/src/main/java/br/com/soap/modelo/ListaItens.java
